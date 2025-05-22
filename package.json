@@ -1,7 +1,7 @@
 {
   "name": "@hanafish/react-native-tuling",
   "description": "🌈 React Native UI library",
-  "version": "0.4.7",
+  "version": "0.1.0",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
   "react-native": "src/index.ts",
@@ -167,7 +167,7 @@
     "plugins": {
       "@release-it/conventional-changelog": {
         "preset": "angular",
-        "infile": false,
+        "infile": "CHANGELOG.md",
         "ignoreRecommendedBump": true
       }
     }
