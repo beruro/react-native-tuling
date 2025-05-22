@@ -49,7 +49,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    name: '图灵协同',
+    name: '图灵协同哈哈',
     logo: 'https://raw.githubusercontent.com/24jieqi/react-native-xiaoshu/main/logo-xiaoshu.svg',
     footer: false,
     socialLinks: {
