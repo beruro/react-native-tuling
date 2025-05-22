@@ -49,7 +49,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    name: '图灵协同哈哈',
+    name: '图灵协同',
     logo: 'https://raw.githubusercontent.com/beruro/react-native-tuling/main/logo-xiaoshu.svg',
     footer: false,
     socialLinks: {
