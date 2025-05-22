@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./logo-xiaoshu.svg" width="120" />
 </div>
-<h1 align="center">图灵协同哈哈</h1>
+<h1 align="center">图灵协同</h1>
 
 <div align="center">
 React Native UI library
