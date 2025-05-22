@@ -2,8 +2,8 @@ import { defineConfig } from 'dumi'
 import path from 'node:path'
 import p from './package.json'
 
-const repo = process.env.PUBLIC_PATH || ''
-const publicPath = repo ? `/${repo}` : '/'
+const repo = 'react-native-tuling'
+const publicPath = `/${repo}/`
 
 export default defineConfig({
   title: '图灵协同 - 轻量、可靠的 React Native 组件库',
@@ -20,8 +20,8 @@ export default defineConfig({
   define: {
     'process.env.BAILU_VERSION': p.version,
   },
-  base: '/react-native-tuling/',
-  publicPath: '/react-native-tuling/',
+  base: `/${repo}/`,
+  publicPath,
   outputPath: 'docs-dist',
   resolve: {
     entryFile: './src/index.ts',
@@ -50,10 +50,10 @@ export default defineConfig({
 
   themeConfig: {
     name: '图灵协同哈哈',
-    logo: 'https://raw.githubusercontent.com/24jieqi/react-native-xiaoshu/main/logo-xiaoshu.svg',
+    logo: 'https://raw.githubusercontent.com/beruro/react-native-tuling/main/logo-xiaoshu.svg',
     footer: false,
     socialLinks: {
-      github: 'https://github.com/24jieqi/react-native-xiaoshu',
+      github: 'https://github.com/beruro/react-native-tuling',
     },
     deviceWidth: 375,
     nav: [
@@ -71,7 +71,7 @@ export default defineConfig({
       },
       {
         title: '更新日志',
-        link: 'https://github.com/24jieqi/react-native-xiaoshu/releases',
+        link: 'https://github.com/beruro/react-native-tuling/releases',
       },
     ],
   },
