@@ -33,7 +33,7 @@ const Home: React.FC<ScreenProps> = ({ navigation }) => {
     <Layout.Page headerShown={false}>
       <Blank top>
         <Space gap={16}>
-          <Text style={Styles.title}>小暑</Text>
+          <Text style={Styles.title}>图灵协同</Text>
           <Text style={Styles.demo}>🌈 轻量、可靠的 React Native 组件库</Text>
 
           <Switch<LocalLang, LocalLang>

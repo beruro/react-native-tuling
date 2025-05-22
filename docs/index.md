@@ -1,7 +1,7 @@
 ---
-title: 🌈 React Native UI library
+title: 🌈 Turing React Native UI library
 hero:
-  title: 小暑 xiǎo shǔ
+  title: 图灵协同
   description: 🌈 轻量、可靠的 React Native 组件库
   actions:
     - text: 快速上手 →
@@ -31,36 +31,36 @@ features:
 # footer: Copyright © 2021-present<br />Powered by [二十四节气团队](https://github.com/24jieqi).
 ---
 
-<Home></Home>
+<!-- <Home></Home> -->
 
 <div class="home-expo">
 
-## Expo
+<!-- ## Expo -->
 
-- **Expo demo app**
+<!-- - **Expo demo app** -->
 
 <div style="width:420px;">
 
-SDK 53+
+<!-- SDK 53+
 
-<img src="https://qr.expo.dev/eas-update?slug=exp&projectId=610e3121-d086-4484-8023-130dca7937ec&groupId=e1c786d5-e805-4833-a71c-22f98f33f413&host=u.expo.dev" alt="react-native-xiaoshu" width="200">
+<img src="https://qr.expo.dev/eas-update?slug=exp&projectId=610e3121-d086-4484-8023-130dca7937ec&groupId=e1c786d5-e805-4833-a71c-22f98f33f413&host=u.expo.dev" alt="react-native-xiaoshu" width="200"> -->
 
 </div>
 
-## Sponsors
-
+<!-- ## Sponsors -->
+<!-- 
 <ul style="list-style:none;padding:0;margin:0;">
   <li style="display:flex;align-items:center;gap:16px;">
     <img src="https://zhiyabonsai.com/images/icon.png" alt="知芽App-属于盆景爱好者的专业AI社区" width="48">
     <a target="\_blank" rel="noopener" href="https://zhiyabonsai.com" style="color:#666;">知芽App-属于盆景爱好者的专业AI社区</a>
   </li>
-</ul>
+</ul> -->
 
 </div>
 
-[xiaoshu-npm-url]: https://www.npmjs.com/package/@fruits-chain/react-native-xiaoshu
+<!-- [xiaoshu-npm-url]: https://www.npmjs.com/package/@fruits-chain/react-native-xiaoshu -->
 
-<div class="markdown-text-center">
+<!-- <div class="markdown-text-center">
 
 [![](https://img.shields.io/npm/v/@fruits-chain/react-native-xiaoshu.svg)][xiaoshu-npm-url]&nbsp;
 [![](https://img.shields.io/npm/dm/@fruits-chain/react-native-xiaoshu.svg)][xiaoshu-npm-url]&nbsp;
@@ -70,4 +70,4 @@ SDK 53+
 [![Platform - Android](https://img.shields.io/badge/platform-Android-3ddc84.svg?logo=android)](https://www.android.com)&nbsp;
 [![Platform - iOS](https://img.shields.io/badge/platform-iOS-000.svg?logo=apple)](https://developer.apple.com/ios)
 
-</div>
+</div> -->
