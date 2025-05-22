@@ -20,8 +20,8 @@ export default defineConfig({
   define: {
     'process.env.BAILU_VERSION': p.version,
   },
-  base: `/${repo}`,
-  publicPath,
+  base: '/react-native-tuling/',
+  publicPath: '/react-native-tuling/',
   outputPath: 'docs-dist',
   resolve: {
     entryFile: './src/index.ts',
