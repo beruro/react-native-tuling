@@ -1,5 +1,5 @@
 {
-  "name": "@fruits-chain/react-native-tuling",
+  "name": "@hanafish/react-native-tuling",
   "description": "🌈 React Native UI library",
   "version": "0.4.5",
   "main": "lib/commonjs/index.js",
@@ -162,7 +162,7 @@
       "release": true
     },
     "npm": {
-      "publish": false
+      "publish": true
     },
     "plugins": {
       "@release-it/conventional-changelog": {
