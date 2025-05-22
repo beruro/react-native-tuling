@@ -44,7 +44,8 @@ export default defineConfig({
     // https://mmomtchev.medium.com/bundling-react-native-for-the-web-with-webpack-and-typescript-ba42db25584
     'react-native-safe-area-context':
       'expo-dev-menu/vendored/react-native-safe-area-context/src',
-    // '@fruits-chain/react-native-xiaoshu': path.join(__dirname, 'src'),
+    '@fruits-chain/react-native-xiaoshu': path.resolve(__dirname, './src'),
+    '@fruits-chain/react-native-tuling': path.resolve(__dirname, './src'),
   },
 
   themeConfig: {
